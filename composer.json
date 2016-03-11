@@ -1,8 +1,8 @@
 {
-    "name": "colinodell/omnipay-bundle",
+    "name": "maxts/omnipay-bundle",
     "description": "Omnipay bundle for Symfony",
     "keywords": ["omnipay", "payment", "bundle"],
-    "homepage": "https://github.com/colinodell/omnipay-bundle",
+    "homepage": "https://github.com/maxts/omnipay-bundle",
     "license": "MIT",
     "authors": [
         {
